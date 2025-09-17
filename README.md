@@ -1,2 +1,1 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=pallavireddy20&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=pallavireddy20&theme=dark&hide_border=true)
