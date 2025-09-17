@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pallavireddy20)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pallavireddy20&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pallavireddy20&theme=dark)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pallavireddy20&show_icons=true&count_private=true)
